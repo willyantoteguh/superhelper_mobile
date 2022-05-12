@@ -13,7 +13,7 @@ class EntryView extends GetView<EntryController> {
   Widget build(BuildContext context) {
     return ScreenUtilInit(
       designSize: Size(371, 711),
-      builder: (c) => Container(
+      builder: (child) => Container(
           color: whiteColor,
           child: SafeArea(
             child: Scaffold(

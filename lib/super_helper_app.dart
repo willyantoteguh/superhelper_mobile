@@ -22,10 +22,8 @@ class SuperHelperApp extends StatelessWidget {
           imageSize: 130,
           imageSrc: "assets/icons/shlogo.png",
           backgroundColor: Colors.white,
-          navigateRoute: ScreenUtilInit(
-            designSize: Size(371, 711),
-            builder: (child) => EntryView(),
-          )),
+          navigateRoute: EntryView(),
+          ),
     );
   }
 }

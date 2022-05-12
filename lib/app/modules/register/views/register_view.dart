@@ -79,7 +79,7 @@ class RegisterView extends GetView<RegisterController> {
                                 InkWell(
                                   onTap: () {
                                    controller.submitUser();
-                                   Get.toNamed(Routes.LOGIN);
+                                   Get.toNamed(Routes.ENTRY);
                                   },
                                   child: Center(
                                     child: GradientButton(
