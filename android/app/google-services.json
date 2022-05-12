@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "506145888907",
+    "project_id": "kehadiranmu-8ee13",
+    "storage_bucket": "kehadiranmu-8ee13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506145888907:android:55f1d55a8f74bbf898928e",
+        "android_client_info": {
+          "package_name": "com.findwilly.kehadiranmu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506145888907-fegvmuj6a1f820evn74aae1ufpg6q5j0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2Gd6BjE2RC9ULSP92Uo-Vew53MVpaeLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506145888907-fegvmuj6a1f820evn74aae1ufpg6q5j0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
